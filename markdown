@@ -1,14 +1,13 @@
 food-delivery-app/
 │
 ├── backend/
-│   ├── app.py
-│   ├── models.py
-│   ├── requirements.txt
+│   ├── app.py(flask)
+│   ├── db(sql lite)
 │
 ├── frontend/
-│   ├── index.html
-│   ├── style.css
-│   ├── script.js
+│   ├── index.html(html)
+│   ├── style.css(css)
+│   ├── script.js(js)
 │
 └── database/
     └── food_delivery.db
